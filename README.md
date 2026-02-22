@@ -262,19 +262,7 @@ The fertilizer recommender takes into account:
 
 ---
 
-## 📸 Screenshots
 
-> 🖼️ *Add screenshots of your web interface here*
-
-```
-Place your screenshots in /static/screenshots/ and link them below:
-
-![Home Page](static/screenshots/home.png)
-![Crop Recommendation](static/screenshots/crop_result.png)
-![Fertilizer Recommendation](static/screenshots/fertilizer_result.png)
-```
-
----
 
 ## 🤝 Contributing
 
@@ -304,11 +292,7 @@ Open an issue [here](https://github.com/akash4550/AgriNexus/issues) with a clear
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
@@ -319,3 +303,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
